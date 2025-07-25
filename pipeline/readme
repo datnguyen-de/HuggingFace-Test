@@ -1,0 +1,1 @@
+Import hàm pipeline từ thư viện transformers. pipeline là cách nhanh và đơn giản để sử dụng các mô hình AI có sẵn như phân tích cảm xúc, dịch ngôn ngữ, tổng hợp văn bản, v.v.
